@@ -1,0 +1,23 @@
+{
+  "name": "errormeta",
+  "author": "AlbanMinassian",
+  "description": "extend node error with second parameter",
+  "license": "MIT",
+  "private": false,
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbanMinassian/errormeta"
+},
+  "keywords" : [ "error", "extend", "meta"],
+  "bugs" : {
+    "url" : "https://github.com/AlbanMinassian/errormeta/issues"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
