@@ -1,0 +1,2 @@
+# errormeta
+extend node error
